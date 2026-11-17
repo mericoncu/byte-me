@@ -1,7 +1,7 @@
 ## Dataset 1: Billboard Hot 100 (1958-2021)
 - Source and URL: Kaggle, dhruvildave, "Billboard The Hot 100 Songs"
   https://www.kaggle.com/datasets/dhruvildave/billboard-the-hot-100-songs
-  · License: <check Kaggle page and copy exactly> · Date accessed: <YYYY-MM-DD>
+  · License: <check Kaggle page and copy exactly> · Date accessed: <2026-10-14>
 - Time range: 1958-08-04 to 2021-11-06 · Granularity: one row per song per weekly chart
   · Size: ~330,000 rows x 7 columns (confirm after download)
 - Columns used:
@@ -28,7 +28,7 @@
 ## Dataset 2: Top Spotify Songs in 73 Countries
 - Source and URL: Kaggle, asaniczka, "Top Spotify Songs in 73 Countries (Daily Updated)"
   https://www.kaggle.com/datasets/asaniczka/top-spotify-songs-in-73-countries-daily-updated
-  · License: <check Kaggle page and copy exactly> · Date accessed: <YYYY-MM-DD>
+  · License: <check Kaggle page and copy exactly> · Date accessed: <2026-10-14>
 - Time range: from ~2023-10 to the access date (dataset is updated daily; freeze the snapshot)
   · Granularity: one row per track per country per day (Top 50)
   · Size: <rows> x ~25 columns (confirm after download)
